@@ -2,11 +2,11 @@
 
 A simple digit classifier trained in **PyTorch** using the MNIST database. This classifier is built using several models.
 
-1. [Softmax Classifier](https://github.com/amanraox/Digit-Recognition/tree/master/models/Softmax) : Accuracy of 92.47%
-2. [kernel PCA Classifier](https://github.com/amanraox/Digit-Recognition/tree/master/models/kernelPCA) : Accuracy of 92.71%
-3. [1-Hidden Layer Neural Network](https://github.com/amanraox/Digit-Recognition/tree/master/models/NN) : Accuracy of 95.77%
-4. [Deep Neural Network](https://github.com/amanraox/Digit-Recognition/tree/master/models/DNN) : Accuracy of 96.54%
-5. [Convolutional Neural Network](https://github.com/amanraox/Digit-Recognition/tree/master/models/CNN) : Accuracy of 98.38% 
+1. [Softmax Classifier](https://github.com/amanraox/Digit-Classifier-ML-models/tree/master/models/Softmax) : Accuracy of 92.47%
+2. [kernel PCA Classifier](https://github.com/amanraox/Digit-Classifier-ML-models/tree/master/models/kernelPCA) : Accuracy of 92.71%
+3. [1-Hidden Layer Neural Network](https://github.com/amanraox/Digit-Classifier-ML-models/tree/master/models/NN) : Accuracy of 95.77%
+4. [Deep Neural Network](https://github.com/amanraox/Digit-Classifier-ML-models/tree/master/models/DNN) : Accuracy of 96.54%
+5. [Convolutional Neural Network](https://github.com/amanraox/Digit-Classifier-ML-models/tree/master/models/CNN) : Accuracy of 98.38% 
 
 ## Code Structure:
 
